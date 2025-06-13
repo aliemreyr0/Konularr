@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="RehberClasses1">
+  <DataContextMoniker Name="/RehberClasses1DataContext" />
+  <nestedChildShapes>
+    <classShape Id="19be723c-48af-49f6-9920-a5cd0bc8fb9f" absoluteBounds="2.5, 1.875, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/RehberClasses1DataContext/rehber" />
+      <nestedChildShapes>
+        <elementListCompartment Id="60979bfd-9281-42ce-bbb8-a27433ff8b0f" absoluteBounds="2.5149999999999997, 2.335, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

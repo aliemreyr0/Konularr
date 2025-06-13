@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="veriler1" Class="RehberClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\SQLEXPRESS;Initial Catalog=veriler1;Integrated Security=True" SettingsObjectName="RehberLinqtoSql.Properties.Settings" SettingsPropertyName="veriler1ConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.rehber" Member="rehber">
+    <Type Name="rehber">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Adsoyad" Type="System.String" DbType="NVarChar(25)" CanBeNull="true" />
+      <Column Name="Eposta" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Sehir" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="Adres" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Aciklama" Type="System.String" DbType="NVarChar(400)" CanBeNull="true" />
+      <Column Name="Ktarihi" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Telno" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
