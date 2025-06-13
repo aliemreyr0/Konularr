@@ -1,0 +1,204 @@
+E:\Mustafa\2023-2024 Bahar\Prog-II\Rssokuma\bin\Debug\net8.0-windows\Rssokuma.exe
+E:\Mustafa\2023-2024 Bahar\Prog-II\Rssokuma\bin\Debug\net8.0-windows\Rssokuma.deps.json
+E:\Mustafa\2023-2024 Bahar\Prog-II\Rssokuma\bin\Debug\net8.0-windows\Rssokuma.runtimeconfig.json
+E:\Mustafa\2023-2024 Bahar\Prog-II\Rssokuma\bin\Debug\net8.0-windows\Rssokuma.dll
+E:\Mustafa\2023-2024 Bahar\Prog-II\Rssokuma\bin\Debug\net8.0-windows\Rssokuma.pdb
+E:\Mustafa\2023-2024 Bahar\Prog-II\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.Form1.resources
+E:\Mustafa\2023-2024 Bahar\Prog-II\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.csproj.GenerateResource.cache
+E:\Mustafa\2023-2024 Bahar\Prog-II\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mustafa\2023-2024 Bahar\Prog-II\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.AssemblyInfoInputs.cache
+E:\Mustafa\2023-2024 Bahar\Prog-II\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.AssemblyInfo.cs
+E:\Mustafa\2023-2024 Bahar\Prog-II\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.csproj.CoreCompileInputs.cache
+E:\Mustafa\2023-2024 Bahar\Prog-II\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.dll
+E:\Mustafa\2023-2024 Bahar\Prog-II\Rssokuma\obj\Debug\net8.0-windows\refint\Rssokuma.dll
+E:\Mustafa\2023-2024 Bahar\Prog-II\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.pdb
+E:\Mustafa\2023-2024 Bahar\Prog-II\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.genruntimeconfig.cache
+E:\Mustafa\2023-2024 Bahar\Prog-II\Rssokuma\obj\Debug\net8.0-windows\ref\Rssokuma.dll
+E:\Mustafa\2023-2024 Bahar\Prog-II\Rssokuma\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+E:\Mustafa\2023-2024 Bahar\Prog-II\Rssokuma\bin\Debug\net8.0-windows\EntityFramework.dll
+E:\Mustafa\2023-2024 Bahar\Prog-II\Rssokuma\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+E:\Mustafa\2023-2024 Bahar\Prog-II\Rssokuma\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\Mustafa\2023-2024 Bahar\Prog-II\Rssokuma\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+E:\Mustafa\2023-2024 Bahar\Prog-II\Rssokuma\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Mustafa\2023-2024 Bahar\Prog-II\Rssokuma\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\Mustafa\2023-2024 Bahar\Prog-II\Rssokuma\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\Mustafa\2023-2024 Bahar\Prog-II\Rssokuma\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\Mustafa\2023-2024 Bahar\Prog-II\Rssokuma\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\Mustafa\2023-2024 Bahar\Prog-II\Rssokuma\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+E:\Mustafa\2023-2024 Bahar\Prog-II\Rssokuma\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+E:\Mustafa\2023-2024 Bahar\Prog-II\Rssokuma\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Mustafa\2023-2024 Bahar\Prog-II\Rssokuma\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Mustafa\2023-2024 Bahar\Prog-II\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.csproj.AssemblyReference.cache
+E:\Mustafa\2023-2024 Bahar\Prog-II\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.csproj.Up2Date
+E:\Mustafa\2023-2024 Bahar\Prog-II\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.Rsskaynaklari.resources
+E:\Mustafa\2023-2024 Bahar\Prog-II\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.Hakkinda.resources
+D:\source\repos\23-24B\Rssokuma\bin\Debug\net8.0-windows\Rssokuma.exe
+D:\source\repos\23-24B\Rssokuma\bin\Debug\net8.0-windows\Rssokuma.deps.json
+D:\source\repos\23-24B\Rssokuma\bin\Debug\net8.0-windows\Rssokuma.runtimeconfig.json
+D:\source\repos\23-24B\Rssokuma\bin\Debug\net8.0-windows\Rssokuma.dll
+D:\source\repos\23-24B\Rssokuma\bin\Debug\net8.0-windows\Rssokuma.pdb
+D:\source\repos\23-24B\Rssokuma\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+D:\source\repos\23-24B\Rssokuma\bin\Debug\net8.0-windows\EntityFramework.dll
+D:\source\repos\23-24B\Rssokuma\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+D:\source\repos\23-24B\Rssokuma\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\source\repos\23-24B\Rssokuma\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+D:\source\repos\23-24B\Rssokuma\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\source\repos\23-24B\Rssokuma\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\source\repos\23-24B\Rssokuma\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\source\repos\23-24B\Rssokuma\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\source\repos\23-24B\Rssokuma\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\source\repos\23-24B\Rssokuma\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\source\repos\23-24B\Rssokuma\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\source\repos\23-24B\Rssokuma\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\source\repos\23-24B\Rssokuma\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\source\repos\23-24B\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.csproj.AssemblyReference.cache
+D:\source\repos\23-24B\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.Form1.resources
+D:\source\repos\23-24B\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.Hakkinda.resources
+D:\source\repos\23-24B\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.Rsskaynaklari.resources
+D:\source\repos\23-24B\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.csproj.GenerateResource.cache
+D:\source\repos\23-24B\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\23-24B\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.AssemblyInfoInputs.cache
+D:\source\repos\23-24B\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.AssemblyInfo.cs
+D:\source\repos\23-24B\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.csproj.CoreCompileInputs.cache
+D:\source\repos\23-24B\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.csproj.Up2Date
+D:\source\repos\23-24B\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.dll
+D:\source\repos\23-24B\Rssokuma\obj\Debug\net8.0-windows\refint\Rssokuma.dll
+D:\source\repos\23-24B\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.pdb
+D:\source\repos\23-24B\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.genruntimeconfig.cache
+D:\source\repos\23-24B\Rssokuma\obj\Debug\net8.0-windows\ref\Rssokuma.dll
+D:\source\repos\24_25B\Rssokuma\bin\Debug\net8.0-windows\Rssokuma.exe
+D:\source\repos\24_25B\Rssokuma\bin\Debug\net8.0-windows\Rssokuma.deps.json
+D:\source\repos\24_25B\Rssokuma\bin\Debug\net8.0-windows\Rssokuma.runtimeconfig.json
+D:\source\repos\24_25B\Rssokuma\bin\Debug\net8.0-windows\Rssokuma.dll
+D:\source\repos\24_25B\Rssokuma\bin\Debug\net8.0-windows\Rssokuma.pdb
+D:\source\repos\24_25B\Rssokuma\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+D:\source\repos\24_25B\Rssokuma\bin\Debug\net8.0-windows\EntityFramework.dll
+D:\source\repos\24_25B\Rssokuma\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+D:\source\repos\24_25B\Rssokuma\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\source\repos\24_25B\Rssokuma\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+D:\source\repos\24_25B\Rssokuma\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\source\repos\24_25B\Rssokuma\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\source\repos\24_25B\Rssokuma\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\source\repos\24_25B\Rssokuma\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\source\repos\24_25B\Rssokuma\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\source\repos\24_25B\Rssokuma\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\source\repos\24_25B\Rssokuma\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\source\repos\24_25B\Rssokuma\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\source\repos\24_25B\Rssokuma\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\source\repos\24_25B\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.csproj.AssemblyReference.cache
+D:\source\repos\24_25B\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.Form1.resources
+D:\source\repos\24_25B\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.Hakkinda.resources
+D:\source\repos\24_25B\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.Rsskaynaklari.resources
+D:\source\repos\24_25B\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.csproj.GenerateResource.cache
+D:\source\repos\24_25B\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\24_25B\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.AssemblyInfoInputs.cache
+D:\source\repos\24_25B\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.AssemblyInfo.cs
+D:\source\repos\24_25B\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.csproj.CoreCompileInputs.cache
+D:\source\repos\24_25B\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.csproj.Up2Date
+D:\source\repos\24_25B\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.dll
+D:\source\repos\24_25B\Rssokuma\obj\Debug\net8.0-windows\refint\Rssokuma.dll
+D:\source\repos\24_25B\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.pdb
+D:\source\repos\24_25B\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.genruntimeconfig.cache
+D:\source\repos\24_25B\Rssokuma\obj\Debug\net8.0-windows\ref\Rssokuma.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\Rssokuma\bin\Debug\net8.0-windows\Rssokuma.exe
+E:\Mustafa\2024-2025 Bahar\Prog-II\Rssokuma\bin\Debug\net8.0-windows\Rssokuma.deps.json
+E:\Mustafa\2024-2025 Bahar\Prog-II\Rssokuma\bin\Debug\net8.0-windows\Rssokuma.runtimeconfig.json
+E:\Mustafa\2024-2025 Bahar\Prog-II\Rssokuma\bin\Debug\net8.0-windows\Rssokuma.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\Rssokuma\bin\Debug\net8.0-windows\Rssokuma.pdb
+E:\Mustafa\2024-2025 Bahar\Prog-II\Rssokuma\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\Rssokuma\bin\Debug\net8.0-windows\EntityFramework.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\Rssokuma\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\Rssokuma\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\Rssokuma\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\Rssokuma\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\Rssokuma\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\Rssokuma\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\Rssokuma\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\Rssokuma\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\Rssokuma\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\Rssokuma\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\Rssokuma\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\Rssokuma\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.csproj.AssemblyReference.cache
+E:\Mustafa\2024-2025 Bahar\Prog-II\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.Form1.resources
+E:\Mustafa\2024-2025 Bahar\Prog-II\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.Hakkinda.resources
+E:\Mustafa\2024-2025 Bahar\Prog-II\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.Rsskaynaklari.resources
+E:\Mustafa\2024-2025 Bahar\Prog-II\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.csproj.GenerateResource.cache
+E:\Mustafa\2024-2025 Bahar\Prog-II\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mustafa\2024-2025 Bahar\Prog-II\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.AssemblyInfoInputs.cache
+E:\Mustafa\2024-2025 Bahar\Prog-II\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.AssemblyInfo.cs
+E:\Mustafa\2024-2025 Bahar\Prog-II\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.csproj.CoreCompileInputs.cache
+E:\Mustafa\2024-2025 Bahar\Prog-II\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.csproj.Up2Date
+E:\Mustafa\2024-2025 Bahar\Prog-II\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\Rssokuma\obj\Debug\net8.0-windows\refint\Rssokuma.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.pdb
+E:\Mustafa\2024-2025 Bahar\Prog-II\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.genruntimeconfig.cache
+E:\Mustafa\2024-2025 Bahar\Prog-II\Rssokuma\obj\Debug\net8.0-windows\ref\Rssokuma.dll
+D:\Downloads\Yeni klasör (42)\Rssokuma\bin\Debug\net8.0-windows\Rssokuma.exe
+D:\Downloads\Yeni klasör (42)\Rssokuma\bin\Debug\net8.0-windows\Rssokuma.deps.json
+D:\Downloads\Yeni klasör (42)\Rssokuma\bin\Debug\net8.0-windows\Rssokuma.runtimeconfig.json
+D:\Downloads\Yeni klasör (42)\Rssokuma\bin\Debug\net8.0-windows\Rssokuma.dll
+D:\Downloads\Yeni klasör (42)\Rssokuma\bin\Debug\net8.0-windows\Rssokuma.pdb
+D:\Downloads\Yeni klasör (42)\Rssokuma\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+D:\Downloads\Yeni klasör (42)\Rssokuma\bin\Debug\net8.0-windows\EntityFramework.dll
+D:\Downloads\Yeni klasör (42)\Rssokuma\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+D:\Downloads\Yeni klasör (42)\Rssokuma\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Downloads\Yeni klasör (42)\Rssokuma\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+D:\Downloads\Yeni klasör (42)\Rssokuma\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Downloads\Yeni klasör (42)\Rssokuma\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Downloads\Yeni klasör (42)\Rssokuma\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Downloads\Yeni klasör (42)\Rssokuma\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\Downloads\Yeni klasör (42)\Rssokuma\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\Downloads\Yeni klasör (42)\Rssokuma\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\Downloads\Yeni klasör (42)\Rssokuma\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\Downloads\Yeni klasör (42)\Rssokuma\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Downloads\Yeni klasör (42)\Rssokuma\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Downloads\Yeni klasör (42)\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.csproj.AssemblyReference.cache
+D:\Downloads\Yeni klasör (42)\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.Form1.resources
+D:\Downloads\Yeni klasör (42)\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.Hakkinda.resources
+D:\Downloads\Yeni klasör (42)\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.Rsskaynaklari.resources
+D:\Downloads\Yeni klasör (42)\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.csproj.GenerateResource.cache
+D:\Downloads\Yeni klasör (42)\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Yeni klasör (42)\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.AssemblyInfoInputs.cache
+D:\Downloads\Yeni klasör (42)\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.AssemblyInfo.cs
+D:\Downloads\Yeni klasör (42)\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.csproj.CoreCompileInputs.cache
+D:\Downloads\Yeni klasör (42)\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.csproj.Up2Date
+D:\Downloads\Yeni klasör (42)\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.dll
+D:\Downloads\Yeni klasör (42)\Rssokuma\obj\Debug\net8.0-windows\refint\Rssokuma.dll
+D:\Downloads\Yeni klasör (42)\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.pdb
+D:\Downloads\Yeni klasör (42)\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.genruntimeconfig.cache
+D:\Downloads\Yeni klasör (42)\Rssokuma\obj\Debug\net8.0-windows\ref\Rssokuma.dll
+d:\Downloads\Yeni klasör (47)\Rssokuma\bin\Debug\net8.0-windows\Rssokuma.exe
+d:\Downloads\Yeni klasör (47)\Rssokuma\bin\Debug\net8.0-windows\Rssokuma.deps.json
+d:\Downloads\Yeni klasör (47)\Rssokuma\bin\Debug\net8.0-windows\Rssokuma.runtimeconfig.json
+d:\Downloads\Yeni klasör (47)\Rssokuma\bin\Debug\net8.0-windows\Rssokuma.dll
+d:\Downloads\Yeni klasör (47)\Rssokuma\bin\Debug\net8.0-windows\Rssokuma.pdb
+d:\Downloads\Yeni klasör (47)\Rssokuma\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+d:\Downloads\Yeni klasör (47)\Rssokuma\bin\Debug\net8.0-windows\EntityFramework.dll
+d:\Downloads\Yeni klasör (47)\Rssokuma\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+d:\Downloads\Yeni klasör (47)\Rssokuma\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+d:\Downloads\Yeni klasör (47)\Rssokuma\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+d:\Downloads\Yeni klasör (47)\Rssokuma\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+d:\Downloads\Yeni klasör (47)\Rssokuma\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+d:\Downloads\Yeni klasör (47)\Rssokuma\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+d:\Downloads\Yeni klasör (47)\Rssokuma\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+d:\Downloads\Yeni klasör (47)\Rssokuma\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+d:\Downloads\Yeni klasör (47)\Rssokuma\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+d:\Downloads\Yeni klasör (47)\Rssokuma\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+d:\Downloads\Yeni klasör (47)\Rssokuma\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+d:\Downloads\Yeni klasör (47)\Rssokuma\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+d:\Downloads\Yeni klasör (47)\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.csproj.AssemblyReference.cache
+d:\Downloads\Yeni klasör (47)\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.Form1.resources
+d:\Downloads\Yeni klasör (47)\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.Hakkinda.resources
+d:\Downloads\Yeni klasör (47)\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.Rsskaynaklari.resources
+d:\Downloads\Yeni klasör (47)\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.csproj.GenerateResource.cache
+d:\Downloads\Yeni klasör (47)\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.GeneratedMSBuildEditorConfig.editorconfig
+d:\Downloads\Yeni klasör (47)\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.AssemblyInfoInputs.cache
+d:\Downloads\Yeni klasör (47)\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.AssemblyInfo.cs
+d:\Downloads\Yeni klasör (47)\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.csproj.CoreCompileInputs.cache
+d:\Downloads\Yeni klasör (47)\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.csproj.Up2Date
+d:\Downloads\Yeni klasör (47)\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.dll
+d:\Downloads\Yeni klasör (47)\Rssokuma\obj\Debug\net8.0-windows\refint\Rssokuma.dll
+d:\Downloads\Yeni klasör (47)\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.pdb
+d:\Downloads\Yeni klasör (47)\Rssokuma\obj\Debug\net8.0-windows\Rssokuma.genruntimeconfig.cache
+d:\Downloads\Yeni klasör (47)\Rssokuma\obj\Debug\net8.0-windows\ref\Rssokuma.dll
