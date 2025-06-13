@@ -1,0 +1,64 @@
+E:\Mustafa\2024-2025 Bahar\Prog-II\GirisFormuSQLite\obj\Debug\net8.0-windows\GirisFormuSQLite.csproj.AssemblyReference.cache
+E:\Mustafa\2024-2025 Bahar\Prog-II\GirisFormuSQLite\obj\Debug\net8.0-windows\GirisFormuSQLite.Form1.resources
+E:\Mustafa\2024-2025 Bahar\Prog-II\GirisFormuSQLite\obj\Debug\net8.0-windows\GirisFormuSQLite.csproj.GenerateResource.cache
+E:\Mustafa\2024-2025 Bahar\Prog-II\GirisFormuSQLite\obj\Debug\net8.0-windows\GirisFormuSQLite.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mustafa\2024-2025 Bahar\Prog-II\GirisFormuSQLite\obj\Debug\net8.0-windows\GirisFormuSQLite.AssemblyInfoInputs.cache
+E:\Mustafa\2024-2025 Bahar\Prog-II\GirisFormuSQLite\obj\Debug\net8.0-windows\GirisFormuSQLite.AssemblyInfo.cs
+E:\Mustafa\2024-2025 Bahar\Prog-II\GirisFormuSQLite\obj\Debug\net8.0-windows\GirisFormuSQLite.csproj.CoreCompileInputs.cache
+E:\Mustafa\2024-2025 Bahar\Prog-II\GirisFormuSQLite\bin\Debug\net8.0-windows\GirisFormuSQLite.exe
+E:\Mustafa\2024-2025 Bahar\Prog-II\GirisFormuSQLite\bin\Debug\net8.0-windows\GirisFormuSQLite.deps.json
+E:\Mustafa\2024-2025 Bahar\Prog-II\GirisFormuSQLite\bin\Debug\net8.0-windows\GirisFormuSQLite.runtimeconfig.json
+E:\Mustafa\2024-2025 Bahar\Prog-II\GirisFormuSQLite\bin\Debug\net8.0-windows\GirisFormuSQLite.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\GirisFormuSQLite\bin\Debug\net8.0-windows\GirisFormuSQLite.pdb
+E:\Mustafa\2024-2025 Bahar\Prog-II\GirisFormuSQLite\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\GirisFormuSQLite\bin\Debug\net8.0-windows\EntityFramework.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\GirisFormuSQLite\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\GirisFormuSQLite\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\GirisFormuSQLite\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\GirisFormuSQLite\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\GirisFormuSQLite\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\GirisFormuSQLite\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\GirisFormuSQLite\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\GirisFormuSQLite\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\GirisFormuSQLite\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\GirisFormuSQLite\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\GirisFormuSQLite\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\GirisFormuSQLite\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\GirisFormuSQLite\obj\Debug\net8.0-windows\GirisFor.1B5DF2E6.Up2Date
+E:\Mustafa\2024-2025 Bahar\Prog-II\GirisFormuSQLite\obj\Debug\net8.0-windows\GirisFormuSQLite.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\GirisFormuSQLite\obj\Debug\net8.0-windows\refint\GirisFormuSQLite.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\GirisFormuSQLite\obj\Debug\net8.0-windows\GirisFormuSQLite.pdb
+E:\Mustafa\2024-2025 Bahar\Prog-II\GirisFormuSQLite\obj\Debug\net8.0-windows\GirisFormuSQLite.genruntimeconfig.cache
+E:\Mustafa\2024-2025 Bahar\Prog-II\GirisFormuSQLite\obj\Debug\net8.0-windows\ref\GirisFormuSQLite.dll
+D:\Downloads\GirisFormuSQLite\bin\Debug\net8.0-windows\GirisFormuSQLite.exe
+D:\Downloads\GirisFormuSQLite\bin\Debug\net8.0-windows\GirisFormuSQLite.deps.json
+D:\Downloads\GirisFormuSQLite\bin\Debug\net8.0-windows\GirisFormuSQLite.runtimeconfig.json
+D:\Downloads\GirisFormuSQLite\bin\Debug\net8.0-windows\GirisFormuSQLite.dll
+D:\Downloads\GirisFormuSQLite\bin\Debug\net8.0-windows\GirisFormuSQLite.pdb
+D:\Downloads\GirisFormuSQLite\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+D:\Downloads\GirisFormuSQLite\bin\Debug\net8.0-windows\EntityFramework.dll
+D:\Downloads\GirisFormuSQLite\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+D:\Downloads\GirisFormuSQLite\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Downloads\GirisFormuSQLite\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+D:\Downloads\GirisFormuSQLite\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Downloads\GirisFormuSQLite\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Downloads\GirisFormuSQLite\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Downloads\GirisFormuSQLite\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\Downloads\GirisFormuSQLite\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\Downloads\GirisFormuSQLite\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\Downloads\GirisFormuSQLite\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\Downloads\GirisFormuSQLite\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Downloads\GirisFormuSQLite\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Downloads\GirisFormuSQLite\obj\Debug\net8.0-windows\GirisFormuSQLite.csproj.AssemblyReference.cache
+D:\Downloads\GirisFormuSQLite\obj\Debug\net8.0-windows\GirisFormuSQLite.Form1.resources
+D:\Downloads\GirisFormuSQLite\obj\Debug\net8.0-windows\GirisFormuSQLite.csproj.GenerateResource.cache
+D:\Downloads\GirisFormuSQLite\obj\Debug\net8.0-windows\GirisFormuSQLite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\GirisFormuSQLite\obj\Debug\net8.0-windows\GirisFormuSQLite.AssemblyInfoInputs.cache
+D:\Downloads\GirisFormuSQLite\obj\Debug\net8.0-windows\GirisFormuSQLite.AssemblyInfo.cs
+D:\Downloads\GirisFormuSQLite\obj\Debug\net8.0-windows\GirisFormuSQLite.csproj.CoreCompileInputs.cache
+D:\Downloads\GirisFormuSQLite\obj\Debug\net8.0-windows\GirisFor.1B5DF2E6.Up2Date
+D:\Downloads\GirisFormuSQLite\obj\Debug\net8.0-windows\GirisFormuSQLite.dll
+D:\Downloads\GirisFormuSQLite\obj\Debug\net8.0-windows\refint\GirisFormuSQLite.dll
+D:\Downloads\GirisFormuSQLite\obj\Debug\net8.0-windows\GirisFormuSQLite.pdb
+D:\Downloads\GirisFormuSQLite\obj\Debug\net8.0-windows\GirisFormuSQLite.genruntimeconfig.cache
+D:\Downloads\GirisFormuSQLite\obj\Debug\net8.0-windows\ref\GirisFormuSQLite.dll
