@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ogrenciler>
+<ogrenci>
+	<numara>233532001</numara>
+	<adsoyad>Ali Aslan</adsoyad>
+	<bolum>Bilgisayar Programcılığı</bolum>
+	<yas>23</yas>
+</ogrenci>
+<ogrenci>
+	<numara>233532002</numara>
+	<adsoyad>Ayşe Ak</adsoyad>
+	<bolum>Kimya Teknolojileri</bolum>
+	<yas>24</yas>
+</ogrenci>
+<ogrenci>
+	<numara>233532003</numara>
+	<adsoyad>Kemal Kamil</adsoyad>
+	<bolum>İnşaat Teknolojileri</bolum>
+	<yas>28</yas>
+</ogrenci>
+<ogrenci>
+	<numara>233532004</numara>
+	<adsoyad>Emre Yılmaz</adsoyad>
+	<bolum>Elektrik Mühendisliği</bolum>
+	<yas>22</yas>
+</ogrenci>
+<ogrenci>
+	<numara>233532005</numara>
+	<adsoyad>Hüseyin Demir</adsoyad>
+	<bolum>Makine Mühendisliği</bolum>
+	<yas>26</yas>
+</ogrenci>
+<ogrenci>
+	<numara>233532006</numara>
+	<adsoyad>Fatma Kara</adsoyad>
+	<bolum>İşletme</bolum>
+	<yas>21</yas>
+</ogrenci>
+<ogrenci>
+	<numara>233532007</numara>
+	<adsoyad>Burak Çelik</adsoyad>
+	<bolum>Elektrik-Elektronik Mühendisliği</bolum>
+	<yas>27</yas>
+</ogrenci>
+<ogrenci>
+	<numara>233532008</numara>
+	<adsoyad>Ayşe Çelik</adsoyad>
+	<bolum>Endüstri Mühendisliği</bolum>
+	<yas>25</yas>
+</ogrenci>
+</ogrenciler>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Personel>
+  <!--Personel bilgileri oluşturuldu-->
+  <kimlik>5</kimlik>
+  <isim>Ahmet Eren</isim>
+  <birimi>Muhasebe</birimi>
+  <cinsiyet>Erkek</cinsiyet>
+</Personel>

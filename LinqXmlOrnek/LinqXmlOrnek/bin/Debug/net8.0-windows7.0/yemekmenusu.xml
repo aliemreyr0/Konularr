@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+<yemek>
+    <isim>Mercimek Çorbası</isim>
+    <fiyat>50 TL</fiyat>
+    <aciklama>
+   Mercimek çorbası sıcak içilir
+   </aciklama>
+    <kalori>250</kalori>
+</yemek>
+</menu>

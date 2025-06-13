@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<isciler>
+  <isci>
+    <kimlik>1</kimlik>
+    <isim>Ali Ak</isim>
+    <cinsiyet>Erkek</cinsiyet>
+    <telefon tip="ev">4445544</telefon>
+    <telefon tip="iş">2225544</telefon>
+    <adres>      
+      <cadde>Mahmutpaşa Cad.</cadde>
+      <sehir>Kocaeli</sehir>
+      <postakodu>41140</postakodu>
+      <ulke>Türkiye</ulke>      
+    </adres>
+  </isci>
+    <isci>
+    <kimlik>2</kimlik>
+    <isim>Veli Ak</isim>
+    <cinsiyet>Erkek</cinsiyet>
+    <telefon tip="iş">9995556</telefon>
+    <adres>      
+      <cadde>Ali Paşa Cad.</cadde>
+      <sehir>İstanbul</sehir>
+      <postakodu>34150</postakodu>
+      <ulke>Türkiye</ulke>      
+    </adres>
+  </isci>
+<isci>
+    <kimlik>3</kimlik>
+    <isim>Ayşe Altın</isim>
+    <cinsiyet>Kadın</cinsiyet>
+    <telefon tip="iş">1111111</telefon>
+    <adres>      
+      <cadde>Kemal Paşa Cad.</cadde>
+      <sehir>İzmir</sehir>
+      <postakodu>35111</postakodu>
+      <ulke>Türkiye</ulke>      
+    </adres>
+</isci>   
+</isciler>

@@ -1,0 +1,16 @@
+E:\Mustafa\2023-2024 Bahar\Prog-II\LinqXmlOrnek\LinqXmlOrnek\bin\Debug\net7.0-windows7.0\LinqXmlOrnek.exe
+E:\Mustafa\2023-2024 Bahar\Prog-II\LinqXmlOrnek\LinqXmlOrnek\bin\Debug\net7.0-windows7.0\LinqXmlOrnek.deps.json
+E:\Mustafa\2023-2024 Bahar\Prog-II\LinqXmlOrnek\LinqXmlOrnek\bin\Debug\net7.0-windows7.0\LinqXmlOrnek.runtimeconfig.json
+E:\Mustafa\2023-2024 Bahar\Prog-II\LinqXmlOrnek\LinqXmlOrnek\bin\Debug\net7.0-windows7.0\LinqXmlOrnek.dll
+E:\Mustafa\2023-2024 Bahar\Prog-II\LinqXmlOrnek\LinqXmlOrnek\bin\Debug\net7.0-windows7.0\LinqXmlOrnek.pdb
+E:\Mustafa\2023-2024 Bahar\Prog-II\LinqXmlOrnek\LinqXmlOrnek\obj\Debug\net7.0-windows7.0\LinqXmlOrnek.Anaform.resources
+E:\Mustafa\2023-2024 Bahar\Prog-II\LinqXmlOrnek\LinqXmlOrnek\obj\Debug\net7.0-windows7.0\LinqXmlOrnek.csproj.GenerateResource.cache
+E:\Mustafa\2023-2024 Bahar\Prog-II\LinqXmlOrnek\LinqXmlOrnek\obj\Debug\net7.0-windows7.0\LinqXmlOrnek.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mustafa\2023-2024 Bahar\Prog-II\LinqXmlOrnek\LinqXmlOrnek\obj\Debug\net7.0-windows7.0\LinqXmlOrnek.AssemblyInfoInputs.cache
+E:\Mustafa\2023-2024 Bahar\Prog-II\LinqXmlOrnek\LinqXmlOrnek\obj\Debug\net7.0-windows7.0\LinqXmlOrnek.AssemblyInfo.cs
+E:\Mustafa\2023-2024 Bahar\Prog-II\LinqXmlOrnek\LinqXmlOrnek\obj\Debug\net7.0-windows7.0\LinqXmlOrnek.csproj.CoreCompileInputs.cache
+E:\Mustafa\2023-2024 Bahar\Prog-II\LinqXmlOrnek\LinqXmlOrnek\obj\Debug\net7.0-windows7.0\LinqXmlOrnek.dll
+E:\Mustafa\2023-2024 Bahar\Prog-II\LinqXmlOrnek\LinqXmlOrnek\obj\Debug\net7.0-windows7.0\refint\LinqXmlOrnek.dll
+E:\Mustafa\2023-2024 Bahar\Prog-II\LinqXmlOrnek\LinqXmlOrnek\obj\Debug\net7.0-windows7.0\LinqXmlOrnek.pdb
+E:\Mustafa\2023-2024 Bahar\Prog-II\LinqXmlOrnek\LinqXmlOrnek\obj\Debug\net7.0-windows7.0\LinqXmlOrnek.genruntimeconfig.cache
+E:\Mustafa\2023-2024 Bahar\Prog-II\LinqXmlOrnek\LinqXmlOrnek\obj\Debug\net7.0-windows7.0\ref\LinqXmlOrnek.dll

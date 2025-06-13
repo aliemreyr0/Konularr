@@ -1,0 +1,15 @@
+D:\source\repos\20_21B\LinqXmlOrnek\LinqXmlOrnek\bin\Debug\netcoreapp3.1\LinqXmlOrnek.exe
+D:\source\repos\20_21B\LinqXmlOrnek\LinqXmlOrnek\bin\Debug\netcoreapp3.1\LinqXmlOrnek.deps.json
+D:\source\repos\20_21B\LinqXmlOrnek\LinqXmlOrnek\bin\Debug\netcoreapp3.1\LinqXmlOrnek.runtimeconfig.json
+D:\source\repos\20_21B\LinqXmlOrnek\LinqXmlOrnek\bin\Debug\netcoreapp3.1\LinqXmlOrnek.runtimeconfig.dev.json
+D:\source\repos\20_21B\LinqXmlOrnek\LinqXmlOrnek\bin\Debug\netcoreapp3.1\LinqXmlOrnek.dll
+D:\source\repos\20_21B\LinqXmlOrnek\LinqXmlOrnek\bin\Debug\netcoreapp3.1\LinqXmlOrnek.pdb
+D:\source\repos\20_21B\LinqXmlOrnek\LinqXmlOrnek\obj\Debug\netcoreapp3.1\LinqXmlOrnek.csprojAssemblyReference.cache
+D:\source\repos\20_21B\LinqXmlOrnek\LinqXmlOrnek\obj\Debug\netcoreapp3.1\LinqXmlOrnek.Anaform.resources
+D:\source\repos\20_21B\LinqXmlOrnek\LinqXmlOrnek\obj\Debug\netcoreapp3.1\LinqXmlOrnek.csproj.GenerateResource.cache
+D:\source\repos\20_21B\LinqXmlOrnek\LinqXmlOrnek\obj\Debug\netcoreapp3.1\LinqXmlOrnek.AssemblyInfoInputs.cache
+D:\source\repos\20_21B\LinqXmlOrnek\LinqXmlOrnek\obj\Debug\netcoreapp3.1\LinqXmlOrnek.AssemblyInfo.cs
+D:\source\repos\20_21B\LinqXmlOrnek\LinqXmlOrnek\obj\Debug\netcoreapp3.1\LinqXmlOrnek.csproj.CoreCompileInputs.cache
+D:\source\repos\20_21B\LinqXmlOrnek\LinqXmlOrnek\obj\Debug\netcoreapp3.1\LinqXmlOrnek.dll
+D:\source\repos\20_21B\LinqXmlOrnek\LinqXmlOrnek\obj\Debug\netcoreapp3.1\LinqXmlOrnek.pdb
+D:\source\repos\20_21B\LinqXmlOrnek\LinqXmlOrnek\obj\Debug\netcoreapp3.1\LinqXmlOrnek.genruntimeconfig.cache

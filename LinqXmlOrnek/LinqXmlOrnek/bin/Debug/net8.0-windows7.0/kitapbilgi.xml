@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kitaplar>
+<kitap>
+    <isim>C Sharp</isim>    
+    <yayinevi>Alfa Yayınevi</yayinevi>
+    <yazari>Ali Aslan</yazari>
+	<fiyat>50 TL</fiyat>
+</kitap>
+<kitap>
+    <isim>Php</isim>    
+    <yayinevi>Beta Yayınevi</yayinevi>
+    <yazari>Ahmet Ak</yazari>
+	<fiyat>40 TL</fiyat>
+</kitap>
+</kitaplar>
