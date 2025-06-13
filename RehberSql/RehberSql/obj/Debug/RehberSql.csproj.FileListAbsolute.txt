@@ -1,0 +1,13 @@
+D:\source\repos\20_21B\RehberSql\RehberSql\bin\Debug\RehberSql.exe.config
+D:\source\repos\20_21B\RehberSql\RehberSql\bin\Debug\RehberSql.exe
+D:\source\repos\20_21B\RehberSql\RehberSql\bin\Debug\RehberSql.pdb
+D:\source\repos\20_21B\RehberSql\RehberSql\obj\Debug\RehberSql.Form1.resources
+D:\source\repos\20_21B\RehberSql\RehberSql\obj\Debug\RehberSql.Properties.Resources.resources
+D:\source\repos\20_21B\RehberSql\RehberSql\obj\Debug\RehberSql.csproj.GenerateResource.cache
+D:\source\repos\20_21B\RehberSql\RehberSql\obj\Debug\RehberSql.csproj.CoreCompileInputs.cache
+D:\source\repos\20_21B\RehberSql\RehberSql\obj\Debug\RehberSql.exe
+D:\source\repos\20_21B\RehberSql\RehberSql\obj\Debug\RehberSql.pdb
+D:\source\repos\20_21B\RehberSql\RehberSql\obj\Debug\RehberSql.Yenikayit.resources
+D:\source\repos\20_21B\RehberSql\RehberSql\obj\Debug\RehberSql.Duzeltme.resources
+D:\source\repos\20_21B\RehberSql\RehberSql\obj\Debug\RehberSql.csproj.AssemblyReference.cache
+D:\source\repos\20_21B\RehberSql\RehberSql\obj\Debug\RehberSql.csproj.SuggestedBindingRedirects.cache
