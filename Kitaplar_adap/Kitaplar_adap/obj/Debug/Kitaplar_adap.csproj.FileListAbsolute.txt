@@ -1,0 +1,54 @@
+C:\Users\BilgisayarLab4\source\repos\Kitaplar_adap\Kitaplar_adap\bin\Debug\Kitaplar_adap.exe.config
+C:\Users\BilgisayarLab4\source\repos\Kitaplar_adap\Kitaplar_adap\bin\Debug\Kitaplar_adap.exe
+C:\Users\BilgisayarLab4\source\repos\Kitaplar_adap\Kitaplar_adap\bin\Debug\Kitaplar_adap.pdb
+C:\Users\BilgisayarLab4\source\repos\Kitaplar_adap\Kitaplar_adap\obj\Debug\Kitaplar_adap.csprojResolveAssemblyReference.cache
+C:\Users\BilgisayarLab4\source\repos\Kitaplar_adap\Kitaplar_adap\obj\Debug\Kitaplar_adap.Anaform.resources
+C:\Users\BilgisayarLab4\source\repos\Kitaplar_adap\Kitaplar_adap\obj\Debug\Kitaplar_adap.Properties.Resources.resources
+C:\Users\BilgisayarLab4\source\repos\Kitaplar_adap\Kitaplar_adap\obj\Debug\Kitaplar_adap.csproj.GenerateResource.cache
+C:\Users\BilgisayarLab4\source\repos\Kitaplar_adap\Kitaplar_adap\obj\Debug\Kitaplar_adap.csproj.CoreCompileInputs.cache
+C:\Users\BilgisayarLab4\source\repos\Kitaplar_adap\Kitaplar_adap\obj\Debug\Kitaplar_adap.exe
+C:\Users\BilgisayarLab4\source\repos\Kitaplar_adap\Kitaplar_adap\obj\Debug\Kitaplar_adap.pdb
+G:\Mustafa\2017-2018 Bahar\Programlama Dilleri II iö\Kitaplar_adap\Kitaplar_adap\bin\Debug\Kitaplar_adap.exe.config
+G:\Mustafa\2017-2018 Bahar\Programlama Dilleri II iö\Kitaplar_adap\Kitaplar_adap\bin\Debug\Kitaplar_adap.exe
+G:\Mustafa\2017-2018 Bahar\Programlama Dilleri II iö\Kitaplar_adap\Kitaplar_adap\bin\Debug\Kitaplar_adap.pdb
+G:\Mustafa\2017-2018 Bahar\Programlama Dilleri II iö\Kitaplar_adap\Kitaplar_adap\obj\Debug\Kitaplar_adap.csprojResolveAssemblyReference.cache
+G:\Mustafa\2017-2018 Bahar\Programlama Dilleri II iö\Kitaplar_adap\Kitaplar_adap\obj\Debug\Kitaplar_adap.Anaform.resources
+G:\Mustafa\2017-2018 Bahar\Programlama Dilleri II iö\Kitaplar_adap\Kitaplar_adap\obj\Debug\Kitaplar_adap.Properties.Resources.resources
+G:\Mustafa\2017-2018 Bahar\Programlama Dilleri II iö\Kitaplar_adap\Kitaplar_adap\obj\Debug\Kitaplar_adap.csproj.GenerateResource.cache
+G:\Mustafa\2017-2018 Bahar\Programlama Dilleri II iö\Kitaplar_adap\Kitaplar_adap\obj\Debug\Kitaplar_adap.csproj.CoreCompileInputs.cache
+G:\Mustafa\2017-2018 Bahar\Programlama Dilleri II iö\Kitaplar_adap\Kitaplar_adap\obj\Debug\Kitaplar_adap.exe
+G:\Mustafa\2017-2018 Bahar\Programlama Dilleri II iö\Kitaplar_adap\Kitaplar_adap\obj\Debug\Kitaplar_adap.pdb
+C:\Users\Mustafa\source\repos\Kitaplar_adap\Kitaplar_adap\bin\Debug\Kitaplar_adap.exe.config
+C:\Users\Mustafa\source\repos\Kitaplar_adap\Kitaplar_adap\bin\Debug\Kitaplar_adap.exe
+C:\Users\Mustafa\source\repos\Kitaplar_adap\Kitaplar_adap\bin\Debug\Kitaplar_adap.pdb
+C:\Users\Mustafa\source\repos\Kitaplar_adap\Kitaplar_adap\obj\Debug\Kitaplar_adap.csprojAssemblyReference.cache
+C:\Users\Mustafa\source\repos\Kitaplar_adap\Kitaplar_adap\obj\Debug\Kitaplar_adap.Anaform.resources
+C:\Users\Mustafa\source\repos\Kitaplar_adap\Kitaplar_adap\obj\Debug\Kitaplar_adap.Properties.Resources.resources
+C:\Users\Mustafa\source\repos\Kitaplar_adap\Kitaplar_adap\obj\Debug\Kitaplar_adap.csproj.GenerateResource.cache
+C:\Users\Mustafa\source\repos\Kitaplar_adap\Kitaplar_adap\obj\Debug\Kitaplar_adap.exe
+C:\Users\Mustafa\source\repos\Kitaplar_adap\Kitaplar_adap\obj\Debug\Kitaplar_adap.pdb
+D:\source\repos\19_20B\Kitaplar_adap\Kitaplar_adap\bin\Debug\Kitaplar_adap.exe.config
+D:\source\repos\19_20B\Kitaplar_adap\Kitaplar_adap\bin\Debug\Kitaplar_adap.exe
+D:\source\repos\19_20B\Kitaplar_adap\Kitaplar_adap\bin\Debug\Kitaplar_adap.pdb
+D:\source\repos\19_20B\Kitaplar_adap\Kitaplar_adap\obj\Debug\Kitaplar_adap.csprojAssemblyReference.cache
+D:\source\repos\19_20B\Kitaplar_adap\Kitaplar_adap\obj\Debug\Kitaplar_adap.Anaform.resources
+D:\source\repos\19_20B\Kitaplar_adap\Kitaplar_adap\obj\Debug\Kitaplar_adap.Properties.Resources.resources
+D:\source\repos\19_20B\Kitaplar_adap\Kitaplar_adap\obj\Debug\Kitaplar_adap.csproj.GenerateResource.cache
+D:\source\repos\19_20B\Kitaplar_adap\Kitaplar_adap\obj\Debug\Kitaplar_adap.csproj.CoreCompileInputs.cache
+D:\source\repos\19_20B\Kitaplar_adap\Kitaplar_adap\obj\Debug\Kitaplar_adap.exe
+D:\source\repos\19_20B\Kitaplar_adap\Kitaplar_adap\obj\Debug\Kitaplar_adap.pdb
+D:\source\repos\19_20B\Kitaplar_adap\Kitaplar_adap\obj\Debug\Kitaplar_adap.Hareketformu.resources
+D:\source\repos\19_20B\Kitaplar_adap\Kitaplar_adap\obj\Debug\Kitaplar_adap.Duzeltmeformu.resources
+D:\source\repos\20_21B\Kitaplar_adap\Kitaplar_adap\bin\Debug\Kitaplar_adap.exe.config
+D:\source\repos\20_21B\Kitaplar_adap\Kitaplar_adap\bin\Debug\Kitaplar_adap.exe
+D:\source\repos\20_21B\Kitaplar_adap\Kitaplar_adap\bin\Debug\Kitaplar_adap.pdb
+D:\source\repos\20_21B\Kitaplar_adap\Kitaplar_adap\obj\Debug\Kitaplar_adap.csproj.AssemblyReference.cache
+D:\source\repos\20_21B\Kitaplar_adap\Kitaplar_adap\obj\Debug\Kitaplar_adap.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\20_21B\Kitaplar_adap\Kitaplar_adap\obj\Debug\Kitaplar_adap.Anaform.resources
+D:\source\repos\20_21B\Kitaplar_adap\Kitaplar_adap\obj\Debug\Kitaplar_adap.Duzeltmeformu.resources
+D:\source\repos\20_21B\Kitaplar_adap\Kitaplar_adap\obj\Debug\Kitaplar_adap.Hareketformu.resources
+D:\source\repos\20_21B\Kitaplar_adap\Kitaplar_adap\obj\Debug\Kitaplar_adap.Properties.Resources.resources
+D:\source\repos\20_21B\Kitaplar_adap\Kitaplar_adap\obj\Debug\Kitaplar_adap.csproj.GenerateResource.cache
+D:\source\repos\20_21B\Kitaplar_adap\Kitaplar_adap\obj\Debug\Kitaplar_adap.csproj.CoreCompileInputs.cache
+D:\source\repos\20_21B\Kitaplar_adap\Kitaplar_adap\obj\Debug\Kitaplar_adap.exe
+D:\source\repos\20_21B\Kitaplar_adap\Kitaplar_adap\obj\Debug\Kitaplar_adap.pdb

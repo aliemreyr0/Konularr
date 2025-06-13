@@ -1,0 +1,78 @@
+D:\source\repos\23-24B\Kitaplar_adap\Kitaplar_adap\bin\Debug\net8.0-windows\Kitaplar_adap.exe
+D:\source\repos\23-24B\Kitaplar_adap\Kitaplar_adap\bin\Debug\net8.0-windows\Kitaplar_adap.dll.config
+D:\source\repos\23-24B\Kitaplar_adap\Kitaplar_adap\bin\Debug\net8.0-windows\Kitaplar_adap.deps.json
+D:\source\repos\23-24B\Kitaplar_adap\Kitaplar_adap\bin\Debug\net8.0-windows\Kitaplar_adap.runtimeconfig.json
+D:\source\repos\23-24B\Kitaplar_adap\Kitaplar_adap\bin\Debug\net8.0-windows\Kitaplar_adap.dll
+D:\source\repos\23-24B\Kitaplar_adap\Kitaplar_adap\bin\Debug\net8.0-windows\Kitaplar_adap.pdb
+D:\source\repos\23-24B\Kitaplar_adap\Kitaplar_adap\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\source\repos\23-24B\Kitaplar_adap\Kitaplar_adap\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\source\repos\23-24B\Kitaplar_adap\Kitaplar_adap\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\source\repos\23-24B\Kitaplar_adap\Kitaplar_adap\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\source\repos\23-24B\Kitaplar_adap\Kitaplar_adap\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\source\repos\23-24B\Kitaplar_adap\Kitaplar_adap\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\source\repos\23-24B\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\Kitaplar_adap.csproj.AssemblyReference.cache
+D:\source\repos\23-24B\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\Kitaplar_adap.Anaform.resources
+D:\source\repos\23-24B\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\Kitaplar_adap.Duzeltmeformu.resources
+D:\source\repos\23-24B\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\Kitaplar_adap.Hareketformu.resources
+D:\source\repos\23-24B\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\Kitaplar_adap.Properties.Resources.resources
+D:\source\repos\23-24B\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\Kitaplar_adap.csproj.GenerateResource.cache
+D:\source\repos\23-24B\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\Kitaplar_adap.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\23-24B\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\Kitaplar_adap.csproj.CoreCompileInputs.cache
+D:\source\repos\23-24B\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\Kitaplar.4E40983E.Up2Date
+D:\source\repos\23-24B\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\Kitaplar_adap.dll
+D:\source\repos\23-24B\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\refint\Kitaplar_adap.dll
+D:\source\repos\23-24B\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\Kitaplar_adap.pdb
+D:\source\repos\23-24B\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\Kitaplar_adap.genruntimeconfig.cache
+D:\source\repos\23-24B\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\ref\Kitaplar_adap.dll
+E:\Mustafa\2023-2024 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\bin\Debug\net8.0-windows\Kitaplar_adap.exe
+E:\Mustafa\2023-2024 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\bin\Debug\net8.0-windows\Kitaplar_adap.dll.config
+E:\Mustafa\2023-2024 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\bin\Debug\net8.0-windows\Kitaplar_adap.deps.json
+E:\Mustafa\2023-2024 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\bin\Debug\net8.0-windows\Kitaplar_adap.runtimeconfig.json
+E:\Mustafa\2023-2024 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\bin\Debug\net8.0-windows\Kitaplar_adap.dll
+E:\Mustafa\2023-2024 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\bin\Debug\net8.0-windows\Kitaplar_adap.pdb
+E:\Mustafa\2023-2024 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\Mustafa\2023-2024 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Mustafa\2023-2024 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\Mustafa\2023-2024 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\Mustafa\2023-2024 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Mustafa\2023-2024 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Mustafa\2023-2024 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\Kitaplar_adap.csproj.AssemblyReference.cache
+E:\Mustafa\2023-2024 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\Kitaplar_adap.Anaform.resources
+E:\Mustafa\2023-2024 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\Kitaplar_adap.Duzeltmeformu.resources
+E:\Mustafa\2023-2024 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\Kitaplar_adap.Hareketformu.resources
+E:\Mustafa\2023-2024 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\Kitaplar_adap.Properties.Resources.resources
+E:\Mustafa\2023-2024 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\Kitaplar_adap.csproj.GenerateResource.cache
+E:\Mustafa\2023-2024 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\Kitaplar_adap.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mustafa\2023-2024 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\Kitaplar_adap.csproj.CoreCompileInputs.cache
+E:\Mustafa\2023-2024 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\Kitaplar.4E40983E.Up2Date
+E:\Mustafa\2023-2024 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\Kitaplar_adap.dll
+E:\Mustafa\2023-2024 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\refint\Kitaplar_adap.dll
+E:\Mustafa\2023-2024 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\Kitaplar_adap.pdb
+E:\Mustafa\2023-2024 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\Kitaplar_adap.genruntimeconfig.cache
+E:\Mustafa\2023-2024 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\ref\Kitaplar_adap.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\bin\Debug\net8.0-windows\Kitaplar_adap.exe
+E:\Mustafa\2024-2025 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\bin\Debug\net8.0-windows\Kitaplar_adap.dll.config
+E:\Mustafa\2024-2025 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\bin\Debug\net8.0-windows\Kitaplar_adap.deps.json
+E:\Mustafa\2024-2025 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\bin\Debug\net8.0-windows\Kitaplar_adap.runtimeconfig.json
+E:\Mustafa\2024-2025 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\bin\Debug\net8.0-windows\Kitaplar_adap.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\bin\Debug\net8.0-windows\Kitaplar_adap.pdb
+E:\Mustafa\2024-2025 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\Kitaplar_adap.csproj.AssemblyReference.cache
+E:\Mustafa\2024-2025 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\Kitaplar_adap.Anaform.resources
+E:\Mustafa\2024-2025 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\Kitaplar_adap.Duzeltmeformu.resources
+E:\Mustafa\2024-2025 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\Kitaplar_adap.Hareketformu.resources
+E:\Mustafa\2024-2025 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\Kitaplar_adap.Properties.Resources.resources
+E:\Mustafa\2024-2025 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\Kitaplar_adap.csproj.GenerateResource.cache
+E:\Mustafa\2024-2025 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\Kitaplar_adap.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mustafa\2024-2025 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\Kitaplar_adap.csproj.CoreCompileInputs.cache
+E:\Mustafa\2024-2025 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\Kitaplar.4E40983E.Up2Date
+E:\Mustafa\2024-2025 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\Kitaplar_adap.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\refint\Kitaplar_adap.dll
+E:\Mustafa\2024-2025 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\Kitaplar_adap.pdb
+E:\Mustafa\2024-2025 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\Kitaplar_adap.genruntimeconfig.cache
+E:\Mustafa\2024-2025 Bahar\Prog-II\Kitaplar_adap\Kitaplar_adap\obj\Debug\net8.0-windows\ref\Kitaplar_adap.dll
